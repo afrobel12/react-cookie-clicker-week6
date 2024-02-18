@@ -1,0 +1,19 @@
+.mainContainer{
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr;
+}
+.upgradeContainer{
+  display: grid;
+  grid-auto-flow: column;
+  
+}
+.treeCardContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  overflow-wrap: break-word;
+  padding-bottom: 10px;
+
+}
+

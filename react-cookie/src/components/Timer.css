@@ -1,0 +1,14 @@
+.timerContainer{
+    border-radius: 25px;
+    text-align: center;
+    text-shadow: 0 0 10px #000;
+}
+.timerBtn{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: none;
+}
+.counter{
+    font-size: 50px;
+}

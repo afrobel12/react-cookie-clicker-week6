@@ -1,0 +1,16 @@
+.resetBtnContainer{
+    width: 20vw;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+.resetBtn{
+    width: 150px;
+    height: 150px;
+    margin-top: 180px;
+    border-radius: 75px;
+    border: none;
+    background-color: #aad4e5;
+    font-size: larger;
+    color:  #e25822;
+}
